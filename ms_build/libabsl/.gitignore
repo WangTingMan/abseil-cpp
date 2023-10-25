@@ -1,0 +1,11 @@
+#dsd
+
+.vs/
+*.opendb
+*.db
+x64/
+ipch/
+*.vcxproj.user
+absl/
+Debug/
+x64/
