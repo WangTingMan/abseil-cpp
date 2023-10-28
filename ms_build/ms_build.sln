@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libabsl", "libabsl\libabsl.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hash_benchmark", "hash_benchmark\hash_benchmark.vcxproj", "{337D84B2-F13D-4889-A846-0BFF4470D512}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{4202CDE1-EABB-428F-BC9F-DC040833BEE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{337D84B2-F13D-4889-A846-0BFF4470D512}.Release|x64.Build.0 = Release|x64
 		{337D84B2-F13D-4889-A846-0BFF4470D512}.Release|x86.ActiveCfg = Release|Win32
 		{337D84B2-F13D-4889-A846-0BFF4470D512}.Release|x86.Build.0 = Release|Win32
+		{4202CDE1-EABB-428F-BC9F-DC040833BEE1}.Debug|x64.ActiveCfg = Debug|x64
+		{4202CDE1-EABB-428F-BC9F-DC040833BEE1}.Debug|x64.Build.0 = Debug|x64
+		{4202CDE1-EABB-428F-BC9F-DC040833BEE1}.Debug|x86.ActiveCfg = Debug|Win32
+		{4202CDE1-EABB-428F-BC9F-DC040833BEE1}.Debug|x86.Build.0 = Debug|Win32
+		{4202CDE1-EABB-428F-BC9F-DC040833BEE1}.Release|x64.ActiveCfg = Release|x64
+		{4202CDE1-EABB-428F-BC9F-DC040833BEE1}.Release|x64.Build.0 = Release|x64
+		{4202CDE1-EABB-428F-BC9F-DC040833BEE1}.Release|x86.ActiveCfg = Release|Win32
+		{4202CDE1-EABB-428F-BC9F-DC040833BEE1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
